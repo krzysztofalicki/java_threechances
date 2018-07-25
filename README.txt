@@ -1,0 +1,1 @@
+simple test for exceptions in java
